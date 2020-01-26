@@ -1,7 +1,7 @@
 export interface Tasks {
    id : string,
    title: string,
-   descrition : string,
+   description : string,
    status : TasksStatus
 }
 
